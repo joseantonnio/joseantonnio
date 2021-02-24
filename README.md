@@ -1,13 +1,18 @@
 <img align="right" src="https://raw.githubusercontent.com/joseantonnio/joseantonnio/main/images/web-dev.png" width="350px" alt="Computer">
 
-### Hey welcome to my profile! What's up? 👋😁
+## Hey welcome to my profile! What's up? 👋😁
 
 - 🚀 I’m currently working at [Liber Capital](http://libercapital.com.br/)
 - 💻 Back-end developer
 - 👨‍💻 Ruby on Rails and PHP
 - ✨ Learning new stuff every mother fudge single day
 
-📫 How to reach me:
+### Some of my projects
+
+- 🐶 WordPress theme for [Clube dos Pets](https://clubedospets.com.br/) with [Sage 9](https://roots.io/sage/)
+- 🚧 Pilim with [Ruby on Rails](https://rubyonrails.org/)
+
+### How to reach me
 
 <p align="left">
     <a href="https://www.twitter.com/junnykx" alt="Twitter">
