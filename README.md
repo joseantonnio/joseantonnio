@@ -1,6 +1,6 @@
 <img align="right" src="https://raw.githubusercontent.com/joseantonnio/joseantonnio/main/images/web-dev.png" width="350px" alt="Computer">
 
-### Hey, welcome to my profile! How is it going? 👋😁
+### Hey welcome to my profile! What's up? 👋😁
 
 - 🚀 I’m currently working at [Liber Capital](http://libercapital.com.br/)
 - 💻 Back-end developer
