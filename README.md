@@ -1,4 +1,6 @@
-<img align="right" src="https://raw.githubusercontent.com/joseantonnio/joseantonnio/main/images/web-dev.png" width="350px" alt="Computer">
+<a href="#" alt="Computer">
+    <img align="right" src="https://raw.githubusercontent.com/joseantonnio/joseantonnio/main/images/web-dev.png" width="350px" alt="Computer">
+</a>
 
 ## Hey welcome to my profile! What's up? 👋😁
 
