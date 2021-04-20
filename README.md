@@ -13,6 +13,7 @@
 
 - 🐶 WordPress theme for [Clube dos Pets](https://clubedospets.com.br/) with [Sage 9](https://roots.io/sage/)
 - 🚧 Pilim with [Ruby on Rails](https://rubyonrails.org/)
+- 🚧 Notifiquei with [Ruby on Rails](https://rubyonrails.org/)
 
 ### How to reach me
 
