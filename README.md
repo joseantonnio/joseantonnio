@@ -1,5 +1,5 @@
 <a href="https://app.daily.dev/joseantonnio">
-    <img src="https://api.daily.dev/devcards/d7156fe040204ea9aac7ec735ec6dc9e.png?r=yge" width="400" alt="José Antonio's Dev Card" align="right"/>
+    <img src="https://github.com/joseantonnio/joseantonnio/blob/main/devcard.svg" width="300" alt="José Antonio's Dev Card" align="right"/>
 </a>
 
 ## Hello there! Welcome to my profile 👋😁
