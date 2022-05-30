@@ -12,9 +12,8 @@
 ### Some of my projects
 
 - 🐶 WordPress theme for [Clube dos Pets](https://clubedospets.com.br/) with [Sage 9](https://roots.io/sage/)
-- 🌽 [Arraiá dos Bichos](https://arraia-dos-bichos.herokuapp.com/) with [Ruby on Rails](https://rubyonrails.org/)
-- 🚧 Pilim with [Ruby on Rails](https://rubyonrails.org/)
-- 🚧 Notifiquei with [Ruby on Rails](https://rubyonrails.org/)
+- 🏪 [Loja Luz dos Bichos](https://luzdosbichos.com.br/) with [Ruby on Rails](https://rubyonrails.org/)
+- 📣 [Notifiquei](https://app.notifiquei.com/) with [Ruby on Rails](https://rubyonrails.org/)
 
 ### How to reach me
 
