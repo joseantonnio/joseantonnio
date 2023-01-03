@@ -1,9 +1,4 @@
-<a href="https://app.daily.dev/joseantonnio">
-    <img src="https://github.com/joseantonnio/joseantonnio/blob/main/devcard.svg" width="300" alt="José Antonio's Dev Card" align="right"/>
-</a>
-
 ## Hello there! Welcome to my profile 👋😁
-
 - 🚀 I’m currently working at [Liber Capital](http://libercapital.com.br/)
 - 💻 Back-end developer
 - 👨‍💻 Ruby on Rails and PHP
@@ -14,6 +9,12 @@
 - 🐶 WordPress theme for [Clube dos Pets](https://clubedospets.com.br/) with [Sage 9](https://roots.io/sage/)
 - 🏪 [Loja Luz dos Bichos](https://luzdosbichos.com.br/) with [Ruby on Rails](https://rubyonrails.org/)
 - 📣 [Notifiquei](https://app.notifiquei.com/) with [Ruby on Rails](https://rubyonrails.org/)
+
+### Stats
+
+<p align="left">
+    <a href="https://wakatime.com/@fe437549-85c1-4381-bec8-5e86dfcdac04"><img src="https://wakatime.com/badge/user/fe437549-85c1-4381-bec8-5e86dfcdac04.svg" alt="Total time coded since Aug 24 2018" /></a>
+</p>
 
 ### How to reach me
 
