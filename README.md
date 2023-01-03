@@ -4,11 +4,11 @@
 - 👨‍💻 Ruby on Rails and PHP
 - ✨ Learning new stuff every mother fudge single day
 
-### Some of my projects
+### Some of my previous projects
 
-- 🐶 WordPress theme for [Clube dos Pets](https://clubedospets.com.br/) with [Sage 9](https://roots.io/sage/)
-- 🏪 [Loja Luz dos Bichos](https://luzdosbichos.com.br/) with [Ruby on Rails](https://rubyonrails.org/)
-- 📣 [Notifiquei](https://app.notifiquei.com/) with [Ruby on Rails](https://rubyonrails.org/)
+- 🐶 WordPress theme for [Clube dos Pets](https://clubedospets.com.br/) with [Sage 9](https://roots.io/sage/) - Personal
+- 🏪 [Loja Luz dos Bichos](https://luzdosbichos.com.br/) with [Ruby on Rails](https://rubyonrails.org/) - Volunteer
+- 📣 [Notifiquei](https://app.notifiquei.com/) with [Ruby on Rails](https://rubyonrails.org/) - Freelancer
 
 ### Stats
 
