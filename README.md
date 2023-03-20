@@ -1,5 +1,5 @@
 ## Hello there! Welcome to my profile 👋😁
-- 🚀 I’m currently working at [Liber Capital](http://libercapital.com.br/)
+- 🚀 I’m currently working at [RD Station](http://rdstation.com/)
 - 💻 Back-end developer
 - 👨‍💻 Ruby on Rails and PHP
 - ✨ Learning new stuff every mother fudge single day
