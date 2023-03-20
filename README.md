@@ -6,8 +6,9 @@
 
 ### Some of my previous projects
 
+- 💡 [Santuário Luz dos Bichos](https://luzdosbichos.com.br/) with [React](https://reactjs.org) and [React Bootstrap](https://react-bootstrap.github.io/) - Volunteer
 - 🐶 WordPress theme for [Clube dos Pets](https://clubedospets.com.br/) with [Sage 9](https://roots.io/sage/) - Personal
-- 🏪 [Loja Luz dos Bichos](https://luzdosbichos.com.br/) with [Ruby on Rails](https://rubyonrails.org/) - Volunteer
+- 🏪 [Loja Luz dos Bichos](https://loja.luzdosbichos.com.br/) with [Ruby on Rails](https://rubyonrails.org/) - Volunteer
 - 📣 [Notifiquei](https://app.notifiquei.com/) with [Ruby on Rails](https://rubyonrails.org/) - Freelancer
 
 ### Stats
