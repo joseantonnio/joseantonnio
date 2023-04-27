@@ -6,16 +6,16 @@
 
 ### Some of my previous projects
 
-- 💡 [Santuário Luz dos Bichos](https://luzdosbichos.com.br/) with [React](https://reactjs.org) and [React Bootstrap](https://react-bootstrap.github.io/) - Volunteer
-- 🐶 WordPress theme for [Clube dos Pets](https://clubedospets.com.br/) with [Sage 9](https://roots.io/sage/) - Personal
+- 💡 [Santuário Luz dos Bichos](https://luzdosbichos.com.br/) with [React](https://react.dev) and [React Bootstrap](https://react-bootstrap.github.io/) - Volunteer
+- 🐶 WordPress theme for [Clube dos Pets](https://clubedospets.com.br/) with [Sage](https://roots.io/sage/) - Personal
 - 🏪 [Loja Luz dos Bichos](https://loja.luzdosbichos.com.br/) with [Ruby on Rails](https://rubyonrails.org/) - Volunteer
 - 📣 [Notifiquei](https://app.notifiquei.com/) with [Ruby on Rails](https://rubyonrails.org/) - Freelancer
 
 ### Stats
 
-<p align="left">
-    <a href="https://wakatime.com/@fe437549-85c1-4381-bec8-5e86dfcdac04"><img src="https://wakatime.com/badge/user/fe437549-85c1-4381-bec8-5e86dfcdac04.svg" alt="Total time coded since Aug 24 2018" /></a>
-</p>
+![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=joseantonnio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&layout=compact)
+
+![Jose's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=joseantonnio&theme=dracula&layout=compact)
 
 ### How to reach me
 
