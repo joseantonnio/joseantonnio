@@ -15,7 +15,7 @@
 
 ![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=joseantonnio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&layout=compact)
 
-![Jose's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=joseantonnio&theme=dracula&layout=compact)
+![Jose's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=joseantonnio&theme=dracula&layout=compact&langs_count=8&custom_title=Most%20Used%20Languages)
 
 ### How to reach me
 
