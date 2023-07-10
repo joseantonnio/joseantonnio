@@ -14,10 +14,6 @@
 ### How to reach me
 
 <p align="left">
-    <a href="https://www.twitter.com/junnykx" alt="Twitter">
-        <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=flat-square&logo=twitter&logoColor=white"/>
-    </a>
-    &nbsp;
     <a href="https://www.linkedin.com/in/joseantonnio" alt="Linkedin">
         <img src="https://img.shields.io/badge/LinkedIn-%230e76a8?style=flat-square&logo=linkedin&logoColor=white" />
     </a>
