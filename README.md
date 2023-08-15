@@ -1,15 +1,19 @@
 ## Hello there! Welcome to my profile 👋😁
 - 🚀 I’m currently working at [RD Station](http://rdstation.com/)
-- 💻 Back-end developer
-- 👨‍💻 Ruby on Rails and PHP
-- ✨ Learning new stuff every mother fudge single day
+- 💻 Growth Engineer
+- 👨‍💻 Ruby on Rails and React
+- ✨ Learning new stuff every single day
 
 ### Some of my previous projects
 
 - 💡 [Santuário Luz dos Bichos](https://luzdosbichos.com.br/) with [React](https://react.dev) and [React Bootstrap](https://react-bootstrap.github.io/) - Volunteer
 - 🐶 WordPress theme for [Clube dos Pets](https://clubedospets.com.br/) with [Sage](https://roots.io/sage/) - Personal
 - 🏪 [Loja Luz dos Bichos](https://loja.luzdosbichos.com.br/) with [Ruby on Rails](https://rubyonrails.org/) - Volunteer
-- 📣 [Notifiquei](https://app.notifiquei.com/) with [Ruby on Rails](https://rubyonrails.org/) - Freelancer
+- 📣 Notifiquei with [Ruby on Rails](https://rubyonrails.org/) - Freelancer
+
+### Stats
+
+[![wakatime](https://wakatime.com/badge/user/fe437549-85c1-4381-bec8-5e86dfcdac04.svg)](https://wakatime.com/@fe437549-85c1-4381-bec8-5e86dfcdac04)
 
 ### How to reach me
 
